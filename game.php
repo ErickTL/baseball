@@ -1,5 +1,5 @@
 <?php
-    $urlImages = 'http://localhost/baseball/images/';
+    $urlImages = 'http://localhost:8080/baseball/images/';
 
     echo json_encode(array(
         'status' => 0,
